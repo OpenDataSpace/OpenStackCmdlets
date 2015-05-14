@@ -1,0 +1,12 @@
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/OpenStackCmdlets.Tests.dll.mdb
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/OpenStackCmdlets.Tests.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/obj/Debug/OpenStackCmdlets.Tests.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/obj/Debug/OpenStackCmdlets.Tests.dll.mdb
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/nunit.framework.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/System.Management.Automation.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/OpenStackCmdlets.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/OpenStackCmdlets.dll.mdb
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/OpenStack.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/System.Net.Http.dll
+/Users/kevin/workspace/OpenStackCmdlets/Source/OpenStackCmdlets.Tests/bin/Debug/Newtonsoft.Json.dll
